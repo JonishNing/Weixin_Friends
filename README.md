@@ -1,0 +1,2 @@
+# Weixin_Friends
+用itchat获取微信好友信息做的一些事情
